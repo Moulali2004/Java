@@ -94,5 +94,4 @@ public class MergeSort {
         System.out.println();
         sc.close();
     }
-
 }
